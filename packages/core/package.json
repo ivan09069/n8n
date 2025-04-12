@@ -42,7 +42,7 @@
     "@n8n/config": "workspace:*",
     "@n8n/di": "workspace:*",
     "@sentry/node": "catalog:",
-    "aws4": "1.11.0",
+    "aws4": "1.13.2",
     "axios": "catalog:",
     "callsites": "catalog:",
     "chardet": "2.0.0",
