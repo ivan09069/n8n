@@ -45,7 +45,7 @@
     "aws4": "1.13.2",
     "axios": "catalog:",
     "callsites": "catalog:",
-    "chardet": "2.0.0",
+    "chardet": "2.1.0",
     "concat-stream": "2.0.0",
     "cron": "3.5.0",
     "fast-glob": "catalog:",
